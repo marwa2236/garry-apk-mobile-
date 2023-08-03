@@ -32,14 +32,14 @@
   
   
 "yandex_banner":"R-M-2540519-1",
-"yandex_inter":"R-M-2540519-3",
+"yandex_inter":"R-M-2540519-1",
 "yandex_native":"R-M-2540519-2",
 "yandex_reward":"R-M-2540519-4",
 
 
 
-"detail_text1":"1) open file in chrome GARRY MOD .ZIP. and File is Auto Downloading..\n\n 2) open Download folder and Extract to .zip file which ", 
-"detail_text2":"1) open file in chrome open file in chrome GARRY MOD .ZIP... and File is Auto Downloading..\n\n 2) open Download folder and Extract to .zip file which ", 
+"detail_text1":"1) open file in chrome.. and File is Auto Downloading..\n\n 2) open Download folder and Extract to .zip file which ", 
+"detail_text2":"1) open file in chrome.. and File is Auto Downloading..\n\n 2) open Download folder and Extract to .zip file which ", 
 "banner_network_choice":"yandex", 
 "interstisial_network_choice":"yandex", 
 "reward_network_choice":"yandex",
@@ -51,46 +51,46 @@
 },
  
  "my_data":[
-  {"title":"apk garry 2023 1",
+  {"title":"title1 ser",
   "download_num":"58458",
   "visite_num":"2141",
-  "photo":"https://iili.io/HQRR5e2.webp"},
-  {"title":"apk garry 2023 2",
+  "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"title":"title2 ser",
   "download_num":"58458",
   "visite_num":"2141",
-  "photo":"https://iili.io/HQRRcX9.webp"},
-  {"title":"apk garry 2023 3",
+  "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"title":"title3 ser",
   "download_num":"58458",
   "visite_num":"2141",
-  "photo":"https://iili.io/HQRRGgj.webp"},
-  {"title":"apk garry 2023 4",
+  "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"title":"title4 ser",
   "download_num":"58458",
   "visite_num":"2141",
-  "photo":"https://iili.io/HQRRv1a.webp"},
-  {"title":"apk garry 2023 5",
+  "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"title":"title5 ser",
   "download_num":"58458",
   "visite_num":"2141",
-  "photo":"https://iili.io/HQRRPII.webp"},
-  {"title":"apk garry 2023 6",
+  "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"title":"title6 ser",
   "download_num":"58458",
   "visite_num":"2141",
-  "photo":"https://iili.io/HQRRyp2.webp"},
-  {"title":"apk garry 2023 7",
+  "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"title":"title7 ser",
   "download_num":"58458",
   "visite_num":"2141",
-  "photo":"https://iili.io/HQR5dQ9.webp"},
-  {"title":"apk garry 2023 8",
+  "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"title":"title8 ser",
   "download_num":"58458",
   "visite_num":"2141",
-  "photo":"https://iili.io/HQR5CkQ.webp"}
+  "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
    ],
   
   "more_apps_info":[
-  {"name":""GMOD APK GAME,"package_name":"com.garryapk.modskin1","icon":"https://play-lh.googleusercontent.com/2Czl4nmx89I3rAyc6nn4PSAE_d0pWQuj_I_iaSra9ERiB7kskI19WNAzKqE5gYDXlrg=w240-h480-rw"},
-  {"name":"garry's mod apk mobile","package_name":"com.garryapk.mobileapk","icon":"https://play-lh.googleusercontent.com/gvaU-pvf2k326aDuc85bmhrWZFKQzFzqDPSdHoPVtRz11G7riU8PSyPuiayMXg4IBDqp=w240-h480-rw"},
-  {"name":"garry's mod apk hint","package_name":"com.garrymodapk.listmod","icon":"https://play-lh.googleusercontent.com/xiCfeu0fSEgNH0jKVKmXghoz7oNcSIu8l8C2uYRFKXNmpbs4bQ0DFf4JeDM4BCcwpQ=w240-h480-rw"},
-  {"name":"helper for garry's mod apk","package_name":"com.garryapk.gmodskin","icon":"https://play-lh.googleusercontent.com/rv9WUj4Fa2SlTbqMXdTx8O1txoZnAmcxZ4OR8Djrk6EDik6regB-r6ulh5GPFPAa3u4D=w240-h480-rw"},
-  {"name":"garry's mod apk 2023","package_name":"com.apkmod.apkmod","icon":"https://play-lh.googleusercontent.com/ergBk7mwrKb4jte3YDoaUMTAEihMNkgpBHFkJzSMNWisdgElKEcG-p5Ok9vFDOUAOA=w240-h480-rw"}
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"}
    ]
  
 }
